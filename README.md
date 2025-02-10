@@ -1,6 +1,6 @@
-# 🌍 Responsive Traveling Website Template  
+# 🌍 Responsive Traveling Website  
 
-This fully responsive traveling website template built from scratch using **HTML, CSS, GSAP, and JavaScript**. The website is designed with a **modern UI/UX** and optimized for seamless user experience across all devices.  
+This fully responsive traveling website template is built from scratch using **HTML, CSS, GSAP, and JavaScript**. The website is designed with a **modern UI/UX** and optimized for seamless user experience across all devices.  
 
 ## ✨ Features  
 
